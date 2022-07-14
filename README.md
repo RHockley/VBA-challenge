@@ -3,7 +3,7 @@
 This project uses VBA script to analyse a large data set of stock trading price points captured over 2018, 2019, and 2020.
 
 When the script is run the ticker code, yearly price change, yearly percentage change, and total volume of stock are added to columns I, J, K, and L 
-respectively. Conditional formatting included in the code adds a fill of either green or red that denotes a positive or negative totla price change.
+respectively. Conditional formatting included in the code adds a fill of either green or red that denotes a positive or negative total price change.
 
 I was unable to successfully complete the bonus challenge of identifying the stock with the greatest percentage increase, greatest precentage decrease
 and greatest stock volume.
