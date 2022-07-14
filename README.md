@@ -1,17 +1,5 @@
 # VBA Homework: The VBA of Wall Street
 
-This project uses VBA script to analyse a large data set of stock trading price points captured over 2018, 2019, and 2020.
-
-When the script is run the ticker code, yearly price change, yearly percentage change, and total volume of stock are added to columns I, J, K, and L 
-respectively. Conditional formatting included in the code adds a fill of either green or red that denotes a positive or negative total price change.
-
-I was unable to successfully complete the bonus challenge of identifying the stock with the greatest percentage increase, greatest precentage decrease
-and greatest stock volume.
-
-Screenshots of the different years are in the Images folder within this repository.
-
-The excel files are in .xlsm format to include the VBA modules. The .vbs files are also included separately.
-
 ## Background
 
 You are well on your way to becoming a programmer and Excel expert! In this homework assignment, you will use VBA scripting to analyse generated stock market data. Depending on your comfort level with VBA, you may choose to challenge yourself with a few of the challenge tasks.
