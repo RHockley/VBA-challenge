@@ -1,5 +1,12 @@
 # VBA Homework: The VBA of Wall Street
 
+This repo contains files for week 2 of the UWA Data Analytics Bootcamp covering VBA.
+
+The VBA scripts will summarize a large data sets containing stock trading information from the years 2018, 2019, and 2020.
+
+When the script is run it will provide the ticker symbol of each company along with the total yearly price change, total yearly percentage change, and total volume of stock. Conditional formatting is used to denote a positive or negative change in the yearly price. Green is a positive change, red is a negative change.
+
+
 ## Background
 
 You are well on your way to becoming a programmer and Excel expert! In this homework assignment, you will use VBA scripting to analyse generated stock market data. Depending on your comfort level with VBA, you may choose to challenge yourself with a few of the challenge tasks.
